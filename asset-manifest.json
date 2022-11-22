@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/krishon/static/css/main.846d801b.css",
+    "main.js": "/krishon/static/js/main.86eab51e.js",
+    "static/js/787.ea652da4.chunk.js": "/krishon/static/js/787.ea652da4.chunk.js",
+    "static/media/cloud.jpg": "/krishon/static/media/cloud.96d6db9303d6a9aaa430.jpg",
+    "static/media/building.jpg": "/krishon/static/media/building.ef56a533f8f12083dac7.jpg",
+    "static/media/team.jpg": "/krishon/static/media/team.464b3fdb4ed0aecec474.jpg",
+    "static/media/MyPic.jpg": "/krishon/static/media/MyPic.a82690bd8b19431687ff.jpg",
+    "static/media/training.jpg": "/krishon/static/media/training.9c6935c40004f053e8ff.jpg",
+    "static/media/network.jpg": "/krishon/static/media/network.824945990f5891636676.jpg",
+    "static/media/consulting.jpg": "/krishon/static/media/consulting.8a7853c47477e7b4c42b.jpg",
+    "static/media/logo1.png": "/krishon/static/media/logo1.46c418008d6e53f8d2c3.png",
+    "static/media/Insta.svg": "/krishon/static/media/Insta.7a3b5420985bed403bbb0ab6ade4cc49.svg",
+    "static/media/Heart.svg": "/krishon/static/media/Heart.5eaf50501a3e26a2c4ead7f8a22076b6.svg",
+    "static/media/Youtube.svg": "/krishon/static/media/Youtube.dff66ab92cc571cb3e98b467cfc1d0e6.svg",
+    "static/media/Services.svg": "/krishon/static/media/Services.47db938c03914c611f0f5eed37fc0129.svg",
+    "static/media/About.svg": "/krishon/static/media/About.92351f656c7f61ab8c699361f302d43c.svg",
+    "index.html": "/krishon/index.html",
+    "static/media/Twitter.svg": "/krishon/static/media/Twitter.53610bbd633c359fc87dfb98ca342f38.svg",
+    "static/media/Contact.svg": "/krishon/static/media/Contact.5665e656627b883fff467c11dcd6b74f.svg",
+    "static/media/Home.svg": "/krishon/static/media/Home.b96431136a723c1e975273515d4cb4b9.svg",
+    "static/media/Fb.svg": "/krishon/static/media/Fb.1bc0288746d9d8eec1ee87d3497c5b1f.svg",
+    "static/media/Point.svg": "/krishon/static/media/Point.8947352bcd990386026070f1fdf7b5ca.svg",
+    "main.846d801b.css.map": "/krishon/static/css/main.846d801b.css.map",
+    "main.86eab51e.js.map": "/krishon/static/js/main.86eab51e.js.map",
+    "787.ea652da4.chunk.js.map": "/krishon/static/js/787.ea652da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.846d801b.css",
+    "static/js/main.86eab51e.js"
+  ]
+}
